@@ -1,0 +1,38 @@
+Project
+-> code, resource
+
+=> manage
+single person 
+team ->
+
+zip => add splash => re-send (zip) 
+git
+
+=> image, text
+
+
+version control => git  (local machine / pc)
+github => cloud storage
+
+=> check git install or not
+git -v
+
+=> new project
+-> initilize git
+git init
+
+-> check status
+git status
+
+-> add all files / folders
+git add .
+
+-> commit (save)
+git commit -m "add-login-system"
+
+-> for identity
+git config --global user.email "your email"
+git config --global user.name "your name"
+
+-> connect to github
+git remote add origin YOUR_URL
