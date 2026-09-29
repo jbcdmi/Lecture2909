@@ -39,3 +39,18 @@ git remote add origin YOUR_URL
 
 -> push/save to github
 git push origin master
+
+
+==========================
+=> re-send / re-push
+
+git add .
+git commit -m "message"
+git push origin master
+
+
+
+===================
+fetch / get 
+
+git clone URL
