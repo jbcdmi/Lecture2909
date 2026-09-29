@@ -36,3 +36,6 @@ git config --global user.name "your name"
 
 -> connect to github
 git remote add origin YOUR_URL
+
+-> push/save to github
+git push origin master
